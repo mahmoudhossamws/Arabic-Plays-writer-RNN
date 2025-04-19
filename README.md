@@ -50,11 +50,8 @@ This project feeds an LSTM-based RNN with Shakespeare's writings and trains it t
 
 ## 📸 Screenshots
 
-<p float="left">
-  <img src="training.png" width="600" />
-  <img src="example.png" width="600" />
-</p>
-
+![screen1](example.PNG)
+![screen2](training.PNG)
 ---
 
 ## 📬 Contact
